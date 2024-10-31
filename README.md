@@ -44,6 +44,17 @@ I developed TRACE UNIMAS as an informational website to support the **Talent Rec
 
 I created my portfolio website, [putrinaqibah.com](https://putrinaqibah.com/), as a dynamic showcase of my skills, projects, and professional journey. Designed to highlight my expertise in **web development, UI/UX, and IT**, the site features an elegant, responsive layout that provides visitors with easy access to my projects, technical skills, and personal background. Using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**, I built this portfolio to demonstrate both my technical proficiency and eye for design, creating a memorable experience that reflects my dedication to quality and innovation in tech.
 
+### Parfum Enchanté: An Elegant Perfume Shopping Experience
+[![Website](https://img.shields.io/badge/website-live-brightgreen)](https://parfum-enchante.web.app/)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-7A1FA2?logo=openai&logoColor=white)
+
+Parfum Enchanté is an online store I developed to offer a curated selection of premium fragrances, providing a refined shopping experience for perfume enthusiasts. Built with **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **Generative AI** technologies, this responsive website highlights each fragrance’s unique allure while ensuring an intuitive, seamless interface for browsing and purchasing. Parfum Enchanté reflects my passion for entrepreneurship and my commitment to creating a visually engaging, user-friendly e-commerce platform.
+
+
 
 # My Coding Journey 
 <div style="display: flex; flex-direction: row;">
