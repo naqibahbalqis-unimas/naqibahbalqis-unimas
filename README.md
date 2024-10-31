@@ -1,5 +1,5 @@
 <p>
-  <img src="https://i.ibb.co/hKLrMsR/name.gif" alt="Header" width="500" height="auto">
+  <img src="https://i.ibb.co/hKLrMsR/name.gif" alt="Header" width="1314" height="auto">
 </p>
 
 # Hello! my name is Putri!
